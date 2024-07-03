@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 200px;
+background-color: rgb(79, 145, 25);
+
+}
+.header2{
+    margin-top: 10px;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 10px;
+}
